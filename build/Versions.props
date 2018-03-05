@@ -24,8 +24,6 @@
     <UsingToolMicrosoftNetCompilers>false</UsingToolMicrosoftNetCompilers>
 
     <UsingToolVSSDK>true</UsingToolVSSDK>
-    <!-- Enable the IBC merge PGO optimization plugin -->
-    <UsingToolIbcOptimization>true</UsingToolIbcOptimization>
     <!-- Tell repo toolset not to define the GetBuildVersion target, as it would conflict with NerdBank.GitVersioning -->
     <DefineGetBuildVersionTargetForVsix>false</DefineGetBuildVersionTargetForVsix>
 
